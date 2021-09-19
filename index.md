@@ -1,3 +1,6 @@
 ## Yu Wang
 
-### Here is what I do with the data.
+### AB Testing
+### Machine Learning
+### Bayesian Statistics
+### About Me
